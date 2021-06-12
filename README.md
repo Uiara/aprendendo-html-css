@@ -1,3 +1,3 @@
-# Aprendendo sobre HTML e CSS &#x1F680
+# Aprendendo sobre HTML e CSS :rocket:
 
 Registro do meu estudo
